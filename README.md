@@ -15,8 +15,10 @@ in this tutorial, I will focus on degets as a regex concept.
 Mahna Mahna do do do do do Mahna Mahna do do do do
 Mahna Mahna do do do do do do do do do do do do do do do do do
 Mahna Mahna--Piero Umiliani - Mah-Na-Mah-Na (original mono 45) (1969).
+
 [link][https://www.youtube.com/watch?v=D2AnF7Qwc5s&ab_channel=menchitty11](<https://www.youtube.com/watch?v=D2AnF7Qwc5s&ab_channel=menchitty11>)
-
+
+                                              
 
 
 <!-- Introductory paragraph (replace this with your text) -->
@@ -56,13 +58,18 @@ in the below example example a table of phone numbers, written as a regular expr
 - [Back-references](#back-references)
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
 
-## Regex Components (know the tools
-| Table |  1      |  2      |
-| -----:|:-------:|:-------:|
-| | | |
-|| ||
-||| |
-| |||
+## Regex Components (Know The Tools)
+
+Digits
+Alphabets
+special Characters
+
+| Type of Character	 |  Characters|
+| -----:|:-------:|
+|Lowercase Alphabets	 |a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z|
+|Uppercase Alphabets|A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z|
+
+˚˚˚˚˚˚˚˚˚˚˚˚˚˚˚˚˚˚˚˚˚˚˚˚˚˚˚˚
 
 | Table |  1      |  2      |
 | -----:|:-------------------------------:|:-------------:|
