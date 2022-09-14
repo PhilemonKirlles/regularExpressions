@@ -24,7 +24,19 @@ Mahna Mahna
 Digit (0-9). In different combnations and with the additions of especial chrachters, we create strings of numbers to convay information. like how the compnation of "(tree)three-four" as a stnring hints to a phone number. with the addition of especial chrachters like ("-|.| |+|+1|") we imphsise the information, and exband the perception of what the digits meant and what they are used for.
 in the below example example a table of phone numbers, written as a regular expressions, and digits which will use through out this tutorial. 
 
+| Table |  1      |  2      |
+| -----:|:-------:|:-------:|
+| | | |
+|| ||
+||| |
+| |||
 
+| Table |  1      |  2      |
+| -----:|:-------:|:-------:|
+| | | |
+|| ||
+||| |
+| |||
 
 
 <!-- Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary. -->
@@ -44,6 +56,12 @@ in the below example example a table of phone numbers, written as a regular expr
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
 
 ## Regex Components (know the tools
+| Table |  1      |  2      |
+| -----:|:-------:|:-------:|
+| | | |
+|| ||
+||| |
+| |||
 
 | Table |  1      |  2      |
 | -----:|:-------------------------------:|:-------------:|
